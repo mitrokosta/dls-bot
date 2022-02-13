@@ -1,0 +1,4 @@
+{
+  "token": "YOUR_TOKEN",
+  "webhook_url": "https://yourapp.herokuapp.com/"
+}
